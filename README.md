@@ -2,14 +2,14 @@
 This repository is for practicing Exploratory Data Analysis (EDA).
 
 ## Topics
-- **1. [Data Handling](1_data_handling)**
+**1. [Data Handling](1_data_handling)**
   - Array & DataFrame creation, indexing, slicing
   - Reshaping, merging, concatenation
   - GroupBy, pivot, melt, stack/unstack
   - Handling duplicates
   - Working with dates, times, strings
 
-- **2. Data Cleaning**
+**2. [Data Cleaning](2_data_cleaning)**
   - **Missing Values**
     - Detection: `isna()`, `notna()`, summary tables
     - Handling:
@@ -31,7 +31,7 @@ This repository is for practicing Exploratory Data Analysis (EDA).
       - Visual: boxplots, scatter plots
     - Removal or capping
 
-- **3. Exploratory Data Analysis (EDA)**
+**3. [Exploratory Data Analysis (EDA)](3_eda)**
   - **Summary Statistics**
     - Mean, median, mode, variance, standard deviation
     - Quantiles, skewness, kurtosis
@@ -49,7 +49,7 @@ This repository is for practicing Exploratory Data Analysis (EDA).
     - Matplotlib, Seaborn, Plotly
     - Interactive visualizations for dashboards
 
-- **4. Data Transformation (EDA-focused)**
+**4. [Data Transformation (EDA-focused)](4_data_transformation)**
   - **Normalization & Scaling**
     - Standardization (z-score)
     - Min-max scaling
@@ -65,7 +65,7 @@ This repository is for practicing Exploratory Data Analysis (EDA).
     - Splitting columns (date-time → day/month/week)
     - Derived columns for better insights
 
-- **5. Advanced Statistical EDA**
+**5. [Advanced Statistical EDA](5_advanced_statistical_eda)**
   - Hypothesis testing basics (for EDA context)
     - t-tests, chi-square tests, ANOVA
   - Detection of relationships
